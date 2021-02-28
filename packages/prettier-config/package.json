@@ -1,0 +1,19 @@
+{
+  "name": "@promise-file/prettier-config",
+  "version": "0.1.0",
+  "license": "MIT",
+  "author": "Nick Petruzzelli <code.npetruzzelli@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:promise-file/promise-file.git",
+    "directory": "packages/prettier-config"
+  },
+  "main": ".prettierrc.js",
+  "devDependencies": {},
+  "eslintConfig": {
+    "extends": [
+      "@promise-file/eslint-config"
+    ]
+  },
+  "prettier": "./.prettierrc.js"
+}

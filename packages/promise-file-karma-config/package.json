@@ -1,0 +1,21 @@
+{
+  "name": "@promise-file/karma-config",
+  "version": "0.1.0",
+  "license": "MIT",
+  "author": "Nick Petruzzelli <code.npetruzzelli@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:promise-file/promise-file.git",
+    "directory": "packages/promise-file-karma-config"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "@promise-file/config": "0.1.0",
+    "lodash": "^4.17.19",
+    "yargs": "^16.1.0"
+  },
+  "devDependencies": {
+    "karma": "6.1.1",
+    "ts-node": "9.1.1"
+  }
+}

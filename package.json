@@ -1,0 +1,31 @@
+{
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "@babel/core": "7.13.1",
+    "@babel/eslint-parser": "7.13.4",
+    "@babel/eslint-plugin": "7.13.0",
+    "@types/jest": "26.0.20",
+    "@types/node": "14.14.31",
+    "@typescript-eslint/eslint-plugin": "4.15.2",
+    "@typescript-eslint/parser": "4.15.2",
+    "eslint": "7.20.0",
+    "eslint-config-prettier": "8.1.0",
+    "eslint-config-standard": "16.0.2",
+    "eslint-plugin-babel": "5.3.1",
+    "eslint-plugin-import": "2.22.1",
+    "eslint-plugin-node": "11.1.0",
+    "eslint-plugin-prettier": "3.3.1",
+    "eslint-plugin-promise": "4.3.1",
+    "prettier": "2.2.1",
+    "typescript": "4.2.2"
+  },
+  "eslintConfig": {
+    "extends": [
+      "@promise-file/eslint-config"
+    ]
+  },
+  "prettier": "@promise-file/prettier-config"
+}
