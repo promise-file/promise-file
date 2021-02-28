@@ -2,6 +2,12 @@
   "name": "@promise-file/eslint-config",
   "version": "1.0.0",
   "license": "MIT",
+  "author": "Nick Petruzzelli <code.npetruzzelli@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:promise-file/promise-file.git",
+    "directory": "packages/eslint-config"
+  },
   "main": ".eslintrc.js",
   "peerDependencies": {
     "@babel/core": ">=7.13.1",
