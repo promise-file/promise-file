@@ -1,12 +1,12 @@
 {
-  "name": "@promise-file/karma",
+  "name": "@promise-file/karma-config",
   "version": "0.1.0",
   "license": "MIT",
   "author": "Nick Petruzzelli <code.npetruzzelli@gmail.com>",
   "repository": {
     "type": "git",
     "url": "git@github.com:promise-file/promise-file.git",
-    "directory": "packages/promise-file-karma"
+    "directory": "packages/promise-file-karma-config"
   },
   "main": "index.js",
   "dependencies": {
