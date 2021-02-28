@@ -1,0 +1,17 @@
+# Managed Packages
+**/node_modules
+
+# Temporary directories for build and development tools
+**/.tmp
+**/.sass-cache
+**/build
+**/dist
+
+# Yarn v2
+# https://yarnpkg.com/advanced/qa#which-files-should-be-gitignored
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.pnp.*

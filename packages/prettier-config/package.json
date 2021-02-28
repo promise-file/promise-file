@@ -1,0 +1,13 @@
+{
+  "name": "@promise-file/prettier-config",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": ".prettierrc.js",
+  "devDependencies": {},
+  "eslintConfig": {
+    "extends": [
+      "@promise-file/eslint-config"
+    ]
+  },
+  "prettier": "./.prettierrc.js"
+}

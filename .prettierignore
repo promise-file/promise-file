@@ -1,0 +1,11 @@
+# Some code editor plugins may not use/respect ignore settings passed to
+# Prettier, so we need to explicitly ignore node_modules with this file at all
+# possible locations.
+**/node_modules
+.yarn
+
+# Temporary directories for build and development tools
+**/.tmp
+**/.sass-cache
+**/build
+**/dist
