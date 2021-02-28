@@ -1,0 +1,9 @@
+{
+  "name": "@promise-file/config",
+  "version": "0.1.0",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+    "@promise-file/module": "0.1.0"
+  }
+}
