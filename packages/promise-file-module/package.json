@@ -1,0 +1,6 @@
+{
+  "name": "@promise-file/module",
+  "version": "0.1.0",
+  "license": "MIT",
+  "main": "index.js"
+}
