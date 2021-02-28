@@ -1,0 +1,15 @@
+{
+  "name": "@promise-file/karma",
+  "version": "0.1.0",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+    "@promise-file/config": "0.1.0",
+    "lodash": "^4.17.19",
+    "yargs": "^16.1.0"
+  },
+  "devDependencies": {
+    "karma": "6.1.1",
+    "ts-node": "9.1.1"
+  }
+}
